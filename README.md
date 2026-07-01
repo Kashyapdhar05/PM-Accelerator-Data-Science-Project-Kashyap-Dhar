@@ -8,7 +8,7 @@ This project analyzes the "GlobalWeatherRepository.csv" file.
 **Dataset Used:** [Kaggle Global Weather Repository](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code)
 
 **Core Tools Used:** `pmdarima` (AutoARIMA), `scikit-learn` (Isolation Forest), `pandas`, `numpy`, `matplotlib`, `seaborn`
-short_video_link=" shortlink=https://drive.google.com/file/d/1Tq-UiAVKLjqkq7nxmGvkO-i8tORg_4v-/view?usp=sharing"
+demoshort_video_link=" shortlink=https://drive.google.com/file/d/1Tq-UiAVKLjqkq7nxmGvkO-i8tORg_4v-/view?usp=sharing"
 
 ---
 
