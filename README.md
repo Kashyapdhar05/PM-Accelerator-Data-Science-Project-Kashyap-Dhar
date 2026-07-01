@@ -20,3 +20,4 @@ This project analyzes the "GlobalWeatherRepository.csv" file.
 
 ```bash
 !pip install -r [https://raw.githubusercontent.com/Kashyapdhar05/PM-Accelerator-Data-Science-Project-Kashyap-Dhar/main/requirements.txt](https://raw.githubusercontent.com/Kashyapdhar05/PM-Accelerator-Data-Science-Project-Kashyap-Dhar/main/requirements.txt)
+Click on "Runtime" -> "Run all" in the Google Colab menu to execute all selected cells in the notebook.
